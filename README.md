@@ -1,6 +1,6 @@
-## Hi I'm Islem <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## Hi I'm Gbenga Aladeusi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Islem Maboud a Full Stack Web Developer and Content Creator on [Youtube](https://youtube.com/coderone). I Spend most of time coding outstanding projects or recording tutorials.
+I'm Gbenga Aladeusi a Senior Full Stack Engineer with special interest in backend. I Spend most of time coding outstanding projects for top-tier businesses.
 
 :mailbox: Reach me out!
 
@@ -8,12 +8,11 @@ I'm Islem Maboud a Full Stack Web Developer and Content Creator on [Youtube](htt
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working on **Slearn** (Professional Courses Platform).
+- 🔭 I’m currently working on **SkitHouse** (A Subscription Based Online Streaming Platform for Commedy Videos).
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding Video ideas.
-- 📫 How to reach me: islempenywis@gmail.com.
-- 😄 Pronouns: CoderOne, Ipenywis, islempenywis.
-- ⚡ Fun fact: I play games and go to the GYM very often.
+- 📫 How to reach me: realdavidalad@gmail.com.
+- ⚡ Fun fact: I know HTML (How To Meet Ladies.)
 
 #### Top Technologies
 
